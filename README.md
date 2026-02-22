@@ -1,5 +1,5 @@
 ### Hi, I'm Raunit 🍙  
-**Embedded Systems & Electronics Enthusiast**  
+**Artificial Intelligence & Machine Learning**  
 Exploring the path toward a **Software + Hardware Full Stack Engineer**
 
 ---
@@ -50,9 +50,9 @@ I enjoy building things at the intersection of:
 
 ![](https://komarev.com/ghpvc/?username=raunitsingh&color=blue&style=flat-square)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raunitsingh&theme=tokyonight)](https://github.com/raunitsingh)
+![](https://streak-stats.demolab.com?user=raunitsingh&theme=tokyonight)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunitsingh&show_icons=true&theme=tokyonight)](https://github.com/raunitsingh)
+![](https://github-readme-stats.vercel.app/api?username=raunitsingh&show_icons=true&theme=tokyonight)
 
 ---
 
