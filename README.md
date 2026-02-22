@@ -29,7 +29,7 @@ I enjoy building things at the intersection of:
 - Motor Control Concepts  
 - Robotics & UAV Systems  
 - Embedded UI / Interfaces  
-- Applied Machine Learning (Beginner)
+- Applied Machine Learning 
 
 ---
 
