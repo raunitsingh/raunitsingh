@@ -16,6 +16,10 @@ Exploring the path toward a **Software + Hardware Full Stack Engineer**
 
 ---
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🚀 About Me
 
 I enjoy building things at the intersection of:
@@ -39,18 +43,34 @@ I enjoy building things at the intersection of:
 - Embedded UI / Interfaces  
 - Applied Machine Learning (Beginner)
 
+</td>
+
+<td width="50%">
+
+## 🛠 Languages & Tools
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square)
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)
+
 ---
 
-## 🛠 Tech Stack
+## 💻 Platforms
 
-**Languages**  
-`C` • `C++` • `Python`
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-**Embedded / Tools**  
-ESP32 • STM32 (learning) • Linux / Ubuntu • VS Code • Git • MATLAB (learning)
-
-**Protocols / Concepts**  
-UART • I2C • SPI • Control Logic
+</td>
+</tr>
+</table>
 
 ---
 
@@ -60,7 +80,6 @@ UART • I2C • SPI • Control Logic
 - Robotics & Autonomous Systems  
 - UAV / Drone Control  
 - Hardware + Software Co-Design  
-- Building & Experimentation
 
 ---
 
