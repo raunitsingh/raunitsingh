@@ -29,7 +29,7 @@ I enjoy building things at the intersection of:
 - Motor Control Concepts  
 - Robotics & UAV Systems  
 - Embedded UI / Interfaces  
-- Applied Machine Learning  
+- Applied Machine Learning 
 
 ---
 
@@ -44,16 +44,15 @@ I enjoy building things at the intersection of:
 
 <td width="50%">
 
-## 📊 Dashboard
+## 📊 Dash Board
 
-<img src="https://count.getloli.com/get/@raunitsingh.github.readme" />
+![](https://count.getloli.com/get/@raunitsingh.github.readme)
 
-<img src="https://komarev.com/ghpvc/?username=raunitsingh&color=blue&style=flat-square" />
+![](https://komarev.com/ghpvc/?username=raunitsingh&color=blue&style=flat-square)
 
-<!-- FIXED STREAK (cache issue resolved) -->
-<img src="https://streak-stats.demolab.com?user=raunitsingh&theme=tokyonight&cache_seconds=1" />
+![](https://streak-stats.demolab.com?user=raunitsingh&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=raunitsingh&show_icons=true&theme=tokyonight&cache_seconds=1" />
+![](https://github-readme-stats.vercel.app/api?username=raunitsingh&show_icons=true&theme=tokyonight)
 
 ---
 
