@@ -1,6 +1,6 @@
 ### Hi, I'm Raunit Singh🍙  
 **Artificial Intelligence & Machine Learning**  
-Exploring the path toward a **Software + Hardware Full Stack Engineer**
+Exploring the path toward a **Software + Hardware Full Stack Engineers**
 
 ---
 
