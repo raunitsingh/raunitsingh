@@ -26,12 +26,12 @@ I enjoy building things at the intersection of:
 
 ## 💼 Experience
 
-**ML Intern @ AudvikLabs** (R&D)
+**OPENCV Intern @ AudvikLabs** 
 
 - Building end-to-end industrial computer vision pipelines — data collection, annotation, YOLOv8 training, and edge deployment on Jetson (Nano/Orin) for real client lines
 - Shipping live inference systems for defect detection and pose-based alignment inspection, converting `.pt` models to TensorRT `.engine` for production speed
 
-**Freelance Backend Developer @ Zingro** (food delivery startup)
+**ML Developer @ Zingro** 
 
 - Built FastAPI/NestJS backend features including a weighted-recommendation "Surprise Me" system and a Gemini-powered support chat module with guardrails
 
