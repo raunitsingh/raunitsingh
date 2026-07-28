@@ -7,7 +7,7 @@ Exploring the path toward a **Software + Hardware Full Stack Engineer**
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🚀 About Me
 
@@ -26,11 +26,13 @@ I enjoy building things at the intersection of:
 
 ## 💼 Experience
 
-**ML Intern @ AudvikLabs** (R&D)
+**OPENCV Intern @ AudvikLabs** 
+
 - Building end-to-end industrial computer vision pipelines — data collection, annotation, YOLOv8 training, and edge deployment on Jetson (Nano/Orin) for real client lines
 - Shipping live inference systems for defect detection and pose-based alignment inspection, converting `.pt` models to TensorRT `.engine` for production speed
 
-**Freelance Backend Developer @ Zingro** (food delivery startup)
+**Freelance Backend Developer @ Zingro** 
+
 - Built FastAPI/NestJS backend features including a weighted-recommendation "Surprise Me" system and a Gemini-powered support chat module with guardrails
 
 ---
@@ -54,13 +56,19 @@ I enjoy building things at the intersection of:
 - Hardware + Software Co-Design
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📊 Dash Board
 
-![Profile visit count](https://count.getloli.com/get/@raunitsingh.github.readme)
-![Profile views](https://komarev.com/ghpvc/?username=raunitsingh&color=blue&style=flat-square)
-![GitHub streak stats](https://streak-stats.demolab.com?user=raunitsingh&theme=tokyonight)
+<p align="center">
+  <img src="https://count.getloli.com/get/@raunitsingh.github.readme" alt="Profile visit count" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raunitsingh&color=blue&style=flat-square" alt="Profile views" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=raunitsingh&theme=tokyonight" alt="GitHub streak stats" width="100%" />
 
 ---
 
