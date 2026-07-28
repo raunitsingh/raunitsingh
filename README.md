@@ -26,25 +26,14 @@ I enjoy building things at the intersection of:
 
 ## 💼 Experience
 
-**OPENCV Intern @ AudvikLabs** 
+**ML Intern @ AudvikLabs** (R&D)
 
 - Building end-to-end industrial computer vision pipelines — data collection, annotation, YOLOv8 training, and edge deployment on Jetson (Nano/Orin) for real client lines
 - Shipping live inference systems for defect detection and pose-based alignment inspection, converting `.pt` models to TensorRT `.engine` for production speed
 
-**Freelance Backend Developer @ Zingro** 
+**Freelance Backend Developer @ Zingro** (food delivery startup)
 
 - Built FastAPI/NestJS backend features including a weighted-recommendation "Surprise Me" system and a Gemini-powered support chat module with guardrails
-
----
-
-## 📚 Currently Exploring
-
-- OpenCV — deep-diving into classical CV as a companion to deep learning pipelines
-- Jetson edge deployment (Nano & Orin) — TensorRT optimization, live camera inference
-- ESP32 & Embedded Development
-- Control Systems / PID
-- Motor Control Concepts
-- Robotics & UAV Systems
 
 ---
 
@@ -60,15 +49,26 @@ I enjoy building things at the intersection of:
 
 ## 📊 Dash Board
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@raunitsingh.github.readme" alt="Profile visit count" />
-</p>
+<img src="https://count.getloli.com/get/@raunitsingh.github.readme" alt="Profile visit count" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raunitsingh&color=blue&style=flat-square" alt="Profile views" />
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=raunitsingh&color=blue&style=flat-square" alt="Profile views" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=raunitsingh&theme=tokyonight" alt="GitHub streak stats" width="100%" />
+
+---
+
+## 📚 Currently Exploring
+
+- OpenCV — deep-diving into classical CV as a companion to deep learning pipelines
+- Jetson edge deployment (Nano & Orin) — TensorRT optimization, live camera inference
+- ESP32 & Embedded Development
+- Control Systems / PID
+- Motor Control Concepts
+- Robotics & UAV Systems
 
 ---
 
