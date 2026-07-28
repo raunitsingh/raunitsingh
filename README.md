@@ -60,7 +60,6 @@ I enjoy building things at the intersection of:
 
 ![Profile visit count](https://count.getloli.com/get/@raunitsingh.github.readme)
 ![Profile views](https://komarev.com/ghpvc/?username=raunitsingh&color=blue&style=flat-square)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raunitsingh&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![GitHub streak stats](https://streak-stats.demolab.com?user=raunitsingh&theme=tokyonight)
 
 ---
